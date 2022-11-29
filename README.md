@@ -1,2 +1,3 @@
 # How Getir An Online Grocery Platform can be Improve the User Experience 
  
+conducted an in app assessment on the Getir app and ran some usability tests with 30 plus product users and most of them appreciated Getir and while they were super impressed by the app , a lot of them had complained regarding the user experience on the app and it needs to be improved. Based on the feedback , in this project we are solving for some of the key customer pain points with relentless focus on their satisfaction . We will also look at some of the marketing strategies that Getir could incorporate for scalability , visibility and more accessibility.
